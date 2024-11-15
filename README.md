@@ -30,7 +30,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Repository Home](https://github.com/Social-profile-template)
+- Solution URL: [Repository Home](https://github.com/SyedSami90/Social-profile-template)
 - Live Site URL: [Live Site](https://SyedSami90.github.io/Social-profile-template)
 
 ## My process
