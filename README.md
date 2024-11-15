@@ -20,15 +20,12 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ## Overview
 
-### The challenge
-
-Users should be able to:
-
-- See hover and focus states for all interactive elements on the page
 
 ### Screenshot
 
-![](./screenshot.jpg)
+
+![Profile Screenshot](./myprofile.png)
+<!-- ![Recipe Screenshot](./myprofile.png)![](./screenshot.jpg) -->
 
 
 ### Links
@@ -51,8 +48,6 @@ Users should be able to:
 - Explored how to style and customize borders to enhance visual design.
 - Learned to apply styles based on the state of links
 - Discovered versatile and popular font families to elevate typography and enhance user experience.
-
-
 
 
 ### Continued development
