@@ -91,7 +91,7 @@ p {
     transition: background-color 0.3s ease;
 }
 
-.linksection a:hover  {
+.linksection a:hover, .linksection a:focus  {
     background-color: hsl(75, 94%, 57%);
 }
 
